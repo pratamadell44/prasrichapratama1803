@@ -76,10 +76,10 @@ helpMessage =""" ༺༽།☤ⵓః•LIβΣRΔTI⌬Π•ఃⵓ☤།༼༻
 ║♪「 Mode:public」
 ╰════════╬♥╬════════╯
 ╭════════╬♥╬════════╮
-          🔪JANGAN ADA TYPO 🔪
+  🔪JANGAN ADA TYPO 🔪
 ╰════════╬♥╬════════╯
 ╭════════╬♥╬════════╮
-     http://line.me/ti/p/KTS6MCiOZe
+    Line : dellapra
 ╰════════╬♥╬════════╯
 """
 
