@@ -15,7 +15,7 @@ INSTALL MODULED :
 `-IKUTI DI BAWAH INI-`
 
 - > git clone `https://github.com/pratamadell44/prasrichapratama1803`
-- > `cd selfbot-py3`
+- > `prasrichapratama1803`
 - > `python3 sbpy3.py`
 
 `nanti muncul link tinggal copy lalu paste ke line dan klik dah buat login 😁`
