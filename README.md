@@ -12,7 +12,7 @@ INSTALL MODULED :
 #===========================
 `-IKUTI DI BAWAH INI-`
 
-- > git clone `https://github.com/pratamadell44/prasrichapratama1803.git`
+- > git clone `https://github.com/pratamadell44/prasrichapratama1803`
 - > `cd selfbot-py3`
 - > `python3 sbpy3.py`
 
