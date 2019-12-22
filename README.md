@@ -2,6 +2,8 @@
 
 
 INSTALL MODULED :
+           $ pkg install python
+           $ pkg install git
 - KETIK -> `pip install akad`
 - KETIK -> `pip install bs4`
 - KETIK -> `pip install gTTS`
