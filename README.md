@@ -18,7 +18,6 @@ INSTALL MODULED :
 - > `prasrichapratama1803`
 - > `python3 sbpy3.py`
 
-`nanti muncul link tinggal copy lalu paste ke line dan klik dah buat login 😁`
 ============================
 
 @dellapra
