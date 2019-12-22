@@ -9,7 +9,7 @@ INSTALL MODULED :
 - KETIK -> `pip install gTTS`
 - KETIK -> `pip install requests`
 - KETIK -> `pip install rsa`
-- KETK -> `pip install thrift==0.11.0`
+- KETK -> `pip install thrift==0.13.0`
 
 #===========================
 `-IKUTI DI BAWAH INI-`
